@@ -97,7 +97,7 @@ function setup() {
   );
   myVida.addActiveZone(
     "zone4",
-    0.475, 0.65, 0.05, 0.05,
+    0.465, 0.65, 0.05, 0.05,
     trigger
   );
   myVida.addActiveZone(
@@ -107,7 +107,7 @@ function setup() {
   );
   myVida.addActiveZone(
     "zone6",
-    0.55, 0.6, 0.09, 0.08,
+    0.58, 0.6, 0.09, 0.09,
     trigger
   );
   myVida.addActiveZone(
